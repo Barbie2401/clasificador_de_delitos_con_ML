@@ -1,0 +1,14 @@
+missingno
+wordcloud
+openpyxl
+folium
+matplotlib
+mapclassify
+pip
+xgboost==1.7.1
+gradio
+pandas==1.4.2
+pandas==1.4.2
+pandas==1.4.2
+pandas==1.4.2
+pandas==1.4.2

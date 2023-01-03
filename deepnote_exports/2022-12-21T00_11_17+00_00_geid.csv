@@ -1,0 +1,6 @@
+modelo,cod_categoria,nom_categoria,metrica,valor
+logistic_2,0,Armas,accuracy_score,0.9983984939597794
+logistic_2,0,Armas,f1_score,0.9756890363648676
+logistic_2,0,Armas,precision_score,0.9988907376594565
+logistic_2,0,Armas,recall_score,0.9535407015221707
+logistic_2,1,Contra la propiedad,accuracy_score,0.9989695044699417

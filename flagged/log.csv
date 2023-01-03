@@ -1,0 +1,9 @@
+Seleccione modelo,Ingrese la denuncia,Tipo de delito,flag,username,timestamp
+xgboost,Hola mi vecino está vendiendo cocaína de clorhidrato con otras drogas,,,,2022-12-16 22:48:48.035275
+xgboost,drogas,,,,2022-12-16 22:52:38.175392
+xgboost,drogas,,,,2022-12-16 22:52:39.519641
+xgboost,drogas,,,,2022-12-16 22:52:40.861201
+xgboost,drogas,,,,2022-12-16 22:52:41.662127
+logistic,drogas,/work/flagged/Tipo de delito/tmpk3sg39qg.json,,,2022-12-16 22:55:09.163615
+,,,,,2022-12-17 11:17:07.469423
+violencia intrafamiliar,,,,2022-12-19 15:30:33.872447
